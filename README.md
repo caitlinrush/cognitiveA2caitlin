@@ -1,4 +1,4 @@
-Assignent 2 Chatbot 
+Assignment 2 Chatbot 
 Part 3 - Client Application
 
 Used IBM Cloud repo as starting point:
